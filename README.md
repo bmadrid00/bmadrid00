@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey, I'm Bradley. 
+
+I currently live in Memphis, TN. I enjoy skateboarding, all things Star Wars, and coding!
+
+## Get In Touch
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--
 **bmadrid00/bmadrid00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
