@@ -3,7 +3,7 @@
 I currently live in Memphis, TN. I enjoy skateboarding, all things Star Wars, and coding!
 
 ## Get In Touch
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:bradley.madrid2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/bradleymadrid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCJ7IPPmtguMRTHVAYo8WO4Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://bmadrid.gitlab.io/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 <!--
 **bmadrid00/bmadrid00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
