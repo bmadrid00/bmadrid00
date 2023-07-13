@@ -9,10 +9,10 @@ I currently live in Memphis, TN. I enjoy skateboarding, all things Star Wars, an
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></img> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></img> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 
 ### My Favorite Project Repos
-* <a href="https://github.com/bmadrid00/codewater-lake">Codewater Lake</a> - Cabin Rental Web Application
-* <a href="https://github.com/bmadrid00/dealer-pal">Dealer pal</a> - Internal Dealership Management Tool
-* <a href="https://github.com/bmadrid00/task-helper">Task Helper</a> - Web App Assisting Project Completion
+* <a href="https://github.com/bradleymadrid/codewater-lake">Codewater Lake</a> - Cabin Rental Web Application
+* <a href="https://github.com/bradleymadrid/dealer-pal">Dealer pal</a> - Internal Dealership Management Tool
+* <a href="https://github.com/bradleymadrid/task-helper">Task Helper</a> - Web App Assisting Project Completion
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmadrid00&theme=dracula)
-![Bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmadrid00&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleymadrid&theme=dracula)
+![Bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleymadrid&show_icons=true&theme=dracula)
 
